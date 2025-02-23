@@ -159,11 +159,15 @@ header .container{
 }
 header .container .navi-i{
   align-items: center;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 header .div{
   display: flex;
 }
-
+nav{
+  display: flex
+}
 
 
 
