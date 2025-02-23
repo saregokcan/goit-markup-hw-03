@@ -153,3 +153,6 @@ p {
 .olk-klo .seg-gez .sez-zse{
   color: #f4f4fd;
 }
+.vid-baslik{
+  display: flex
+}
