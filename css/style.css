@@ -155,8 +155,12 @@ p {
 }
 header .container{
   display: flex
+  width: 1158px
 }
-
+header .container .navi-i{
+  display: flex
+  align-items: center
+}
 
 
 
