@@ -1,109 +1,154 @@
 body{
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
 }
 header{
-    font-family: "Raleway", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
 }
 h1 {
-  font-size: 56px;
-  line-height: 1.07;
-  text-align: center;
-  letter-spacing: 0.02em;
-  color: #ffffff;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
 }
 button {
-  background-color: #4d5ae5;
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
-  color: #ffffff;
+background-color: #4d5ae5;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+cursor: pointer;
 }
 a:focus {
-  background-color: #404bbf;
+background-color: #404bbf;
 }
 a:hover {
-  background-color: #404bbf;
+background-color: #404bbf;
 }
 h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .seg-gez{
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
 }
 .sez-zse{
-        color: #2e2f42;
+      color: #2e2f42;
 }
 .sab-bas{
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-    }
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  }
 address{
-    font-style: normal;
+  font-style: normal;
 }
-.sbe-ebs{
-    background-color: #2e2f42;
+.sbe-ebs .yhn-nhy{
+  background-color: #FFFFFF;
 }
 button:hover{
 background-color: #404BBF;
 }
 button:focus{
-    background-color: #404BBF;
-    cursor: pointer
+  background-color: #404BBF;
+  cursor: pointer
 }
 .bkz-kbz{
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 a:hover{
-    color: #404bbf;
+  color: #404bbf;
 }
 a:focus{
-    color: #404bbf;
+  color: #404bbf;
 }
 .olk-klo{
-    color: #2e2f42;
+  color: #2e2f42;
 }
 .plm-mlp{
-    line-height: 1.5;
-    color: #F4F4FD;
-    letter-spacing: 0.02em;
+  line-height: 1.5;
+  color: #F4F4FD;
+  letter-spacing: 0.02em;
 }
 a{
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-size: 16px;
 }
+
 .sbe-eba{
-    background-color: #2e2f42;
+  background-color: #2e2f42;
 }
 .sbe-ebf{
-    background-color: #f4f4fd;
+  background-color: #f4f4fd;
 }
+.sbe-ebf .yhn-nhy{
+  background-color: #FFFFFF;
+}
+
 h2{
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 footer{
-    color: #2e2f42;
-    padding: 100px 0
+  color: #2e2f42;
+  background-color: #2e2f42;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.alt-bilgi .footer-p {
+  color: #f4f4fd;
+}
+p {
+  color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  font-size: 16px;
+}
+.logo-sinif {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #4d5ae5;
+  font-size: 18px;
+}
+.bus-sub{
+  color: #434455;
+}
+.olk-klo .seg-gez .sez-zse{
+  color: #f4f4fd;
 }
