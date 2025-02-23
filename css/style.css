@@ -153,10 +153,7 @@ p {
 .olk-klo .seg-gez .sez-zse{
   color: #f4f4fd;
 }
-header .container{
-  display: flex;
-  width: 1158px;
-}
+
 header .container .navi-i{
   align-items: center;
 }
