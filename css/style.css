@@ -107,6 +107,7 @@ a{
 }
 .sbe-ebf{
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .sbe-ebf .yhn-nhy{
   background-color: #FFFFFF;
@@ -204,8 +205,13 @@ nav{
 .bez-zeb{
   margin-bottom: 8px;
 }
-
-
+.rfv-vfr{
+  margin-bottom: 72px;
+}
+.ank-asp{
+  display: flex;
+  gap: 24px;
+}
 
 
 
