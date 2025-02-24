@@ -101,9 +101,9 @@ a{
   font-size: 16px;
   margin-right: 76px
 }
-
 .sbe-eba{
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 .sbe-ebf{
   background-color: #f4f4fd;
@@ -111,7 +111,6 @@ a{
 .sbe-ebf .yhn-nhy{
   background-color: #FFFFFF;
 }
-
 h2{
   font-size: 36px;
   line-height: 1.11;
