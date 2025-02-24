@@ -202,12 +202,15 @@ nav{
   display: flex;
   gap: 24px;
 }
+
 .bez-zeb{
   margin-bottom: 8px;
 }
+
 .rfv-vfr{
   margin-bottom: 72px;
 }
+
 .ank-asp{
   display: flex;
   gap: 24px;
@@ -216,42 +219,18 @@ nav{
   text-align: center;
   margin-bottom: 8px;
 }
+
 .sbe-ebr{
   padding: 120px 0;
 }
+
 .zxc-cxz{
   margin-bottom: 72px;
 }
+
 .ank-yld{
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
