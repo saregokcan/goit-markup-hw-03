@@ -14,6 +14,9 @@ header {
   color: #4d5ae5;
   border-bottom: 1px solid #e7e9fc;
 }
+header .container {
+  display: flex;
+}
 h1 {
   font-size: 56px;
   line-height: 1.07;
@@ -202,15 +205,12 @@ nav {
   display: flex;
   gap: 24px;
 }
-
 .bez-zeb {
   margin-bottom: 8px;
 }
-
 .rfv-vfr {
   margin-bottom: 72px;
 }
-
 .ank-asp {
   display: flex;
   gap: 24px;
@@ -221,15 +221,12 @@ nav {
   text-align: center;
   margin-bottom: 8px;
 }
-
 .sbe-ebr {
   padding: 120px 0;
 }
-
 .zxc-cxz {
   margin-bottom: 72px;
 }
-
 .ank-yld {
   display: flex;
   flex-wrap: wrap;
