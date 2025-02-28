@@ -12,6 +12,17 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
+border-bottom: 1px solid #e7e9fc;
+}
+
+header div{
+  display: flex;
+}
+
+header .container{
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 h1 {
 font-size: 56px;
