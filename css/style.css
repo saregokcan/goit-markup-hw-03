@@ -129,6 +129,7 @@ a{
 
 .sbe-eba{
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 .sbe-ebf{
   background-color: #f4f4fd;
@@ -218,9 +219,20 @@ p {
   border: 1px solid #e7e9fc;
   border-top: none;
   margin-bottom: 8px;
-
 }
-
+.bse-seb{
+  max-width: 496px;
+}
+.gkn-kng{
+  display: block;
+  margin: 0 auto;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  background-color: #4d5ae5;
+  border-radius: 4px;
+  cursor: pointer;
+}
 
 
 
