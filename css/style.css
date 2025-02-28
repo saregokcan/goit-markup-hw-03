@@ -70,6 +70,8 @@ h3 {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   margin-right: 76px;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 .sira-head{
   display: flex;
@@ -115,6 +117,7 @@ a:focus{
   line-height: 1.5;
   color: #F4F4FD;
   letter-spacing: 0.02em;
+  max-width: 264px;
 }
 a{
   font-weight: 500;
@@ -151,6 +154,7 @@ footer{
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  padding: 100px 0;
 }
 .alt-bilgi .footer-p {
   color: #f4f4fd;
@@ -176,18 +180,3 @@ p {
 .olk-klo .seg-gez .sez-zse{
   color: #f4f4fd;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
