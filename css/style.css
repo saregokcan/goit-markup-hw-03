@@ -132,6 +132,7 @@ a{
 }
 .sbe-ebf{
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .sbe-ebf .yhn-nhy{
   background-color: #FFFFFF;
@@ -180,13 +181,17 @@ p {
 .olk-klo .seg-gez .sez-zse{
   color: #f4f4fd;
 }
-
-
-
-
-
-
-
-
-
-
+.rfv-vfr{
+  margin-bottom: 72px
+}
+.tuz-golu{
+  display: flex;
+  gap: 24px;
+}
+.bjk-kjb{
+  text-align: center;
+  margin-bottom: 8px;
+}
+.gty-ytg{
+  text-align: center;
+}
