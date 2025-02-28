@@ -233,3 +233,13 @@ p {
   border-radius: 4px;
   cursor: pointer;
 }
+sbe-ebc{
+  padding: 120px 0;
+}
+.sec-two{
+  display: flex;
+  gap: 24px;
+}
+.bez-zeb{
+  margin-bottom: 8px;
+}
