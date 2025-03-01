@@ -2,7 +2,6 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
-  font-family: "Roboto", sans-serif;
 }
 *,
 *:before,
@@ -65,6 +64,7 @@ h3 {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .seg-gez {
   font-weight: 700;
@@ -195,7 +195,6 @@ p {
 }
 .bjk-kjb {
   text-align: center;
-  margin-bottom: 8px;
 }
 .gty-ytg {
   text-align: center;
@@ -239,9 +238,6 @@ div {
   display: flex;
   gap: 24px;
 }
-.bez-zeb {
-  margin-bottom: 8px;
-}
 
 .sec-tre {
   padding: 32px 0;
@@ -265,9 +261,7 @@ img {
 .sbg-gsb {
   width: calc((100% - 72px) / 4);
 }
-.vid-bir {
-  margin-bottom: 8px;
-}
+
 .list-four {
   width: calc((100% - 48px) / 3);
 }
