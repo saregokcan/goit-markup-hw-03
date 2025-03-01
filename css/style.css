@@ -246,7 +246,9 @@ sbe-ebc {
 .sec-tre{
   padding: 32px 0
 }
-
+img {
+  display: block;
+}
   
 
 
