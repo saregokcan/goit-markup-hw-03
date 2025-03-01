@@ -264,3 +264,9 @@ img {
 .sbg-gsb {
   width: calc((100% - 72px) / 4);
 }
+.vid-bir {
+  margin-bottom: 8px;
+}
+.list-four {
+  width: calc((100% - 48px) / 3);
+}
