@@ -243,14 +243,13 @@ p {
   margin-bottom: 8px;
 }
 
-
-.sec-tre{
-  padding: 32px 0
+.sec-tre {
+  padding: 32px 0;
 }
 img {
   display: block;
 }
-     
+
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -263,14 +262,3 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-
-
-
-
-
-
-
-
-
-
-
