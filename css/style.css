@@ -241,6 +241,11 @@ sbe-ebc {
   margin-bottom: 8px;
 }
 
+*,
+*:before,
+*:after {
+  box-sizing: unset;
+}
 
 
 
