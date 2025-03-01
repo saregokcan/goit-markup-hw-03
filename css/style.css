@@ -95,8 +95,10 @@ h3 {
 address {
   font-style: normal;
 }
-.sbe-ebs .yhn-nhy {
+.yhn-nhy {
   background-color: #ffffff;
+  width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
 button:hover {
   background-color: #404bbf;
@@ -139,9 +141,6 @@ a {
 .dort-bolum {
   background-color: #f4f4fd;
   padding: 120px 0;
-}
-.sbe-ebf .yhn-nhy {
-  background-color: #ffffff;
 }
 
 h2 {
@@ -261,4 +260,7 @@ img {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+.sbg-gsb {
+  width: calc((100% - 72px) / 4);
 }
