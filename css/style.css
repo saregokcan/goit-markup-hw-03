@@ -266,3 +266,8 @@ img {
   width: calc((100% - 48px) / 3);
 }
 
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
